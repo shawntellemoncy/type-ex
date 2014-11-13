@@ -1,7 +1,31 @@
 /* Your Website Styles */
 
-
-/* Show Grid */
-.showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+body {
+	font-family: 'Gabriela', serif;
+	background: url('../img/pw_pattern.png');
 }
+
+
+h1 {
+	color: teal;
+	text-align: center;
+}
+
+p {
+	padding: 20px 20px;
+}
+
+#image1 {
+	max-width: 50%;
+	border-radius: 10%;
+}
+
+#image2 {
+	max-width: 45%;
+	border-radius: 10%;
+}
+
+
+}/* Show Grid */
+.showgrid {
+	
